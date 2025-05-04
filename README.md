@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowdfunding*
 
-Submitted by: **Your Name Here**
+Submitted by: **TESFAHUN FOLA**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **45** hours spent in total
 
 ## Required Features
 
@@ -18,6 +18,8 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* [ ]  Additional CSS animations for game cards (e.g., fade-in on load) could be implemented for visual appeal.
+* [ ] A navigation bar linking to sections (e.g., Stats, Our Games) could improve site navigation.
 
 ## Video Walkthrough
 
@@ -35,6 +37,17 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+Challenge 3 (Game Cards): Ensuring proper DOM manipulation with template literals to display game details dynamically required careful handling of HTML structure and CSS styling.
+
+Challenge 5 (Filtering): Implementing deleteChildElements correctly in filter functions was critical to prevent duplicate game cards from accumulating.
+
+Challenge 6 (Company Description): Using the ternary operator for grammatical correctness (e.g., “1 game remains” vs. “7 games remain”) needed precise logic to handle edge cases.
+
+Challenge 7 (Top Games): Sorting and destructuring the games array to display the top two funded games required verifying the sort order and handling game names accurately.
+
+Bonus Feature (Search Bar): Integrating a search function involved adding new HTML elements, styling them consistently with the existing design, and ensuring case-insensitive filtering worked robustly.
+
+General: Debugging CSS flexbox layouts and hover effects to achieve a responsive and visually appealing design was iterative, especially for the game card grid.
 
 ## License
 
