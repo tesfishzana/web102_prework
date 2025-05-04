@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 ```bash
-  [(https://www.loom.com/share/15ec41572ef14948b7c0f65efda7ba6b?sid=4e834c3d-c220-4516-a83c-01a566717b78)]
+ https://www.loom.com/share/15ec41572ef14948b7c0f65efda7ba6b?sid=4e834c3d-c220-4516-a83c-01a566717b78
 ```
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
