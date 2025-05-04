@@ -21,6 +21,12 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -72,4 +78,17 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+#search-container {
+    text-align: center;
+    margin: 1%;
+}
+#search-input {
+    font-family: 'Cabin';
+    padding: 0.5%;
+    margin: 0.5%;
+    border-radius: 5px;
+    border: 1px solid #758190;
+    width: 200px;
 }
